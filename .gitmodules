@@ -1,0 +1,9 @@
+[submodule "ThirdParty/liboai"]
+	path = ThirdParty/liboai
+	url = https://github.com/D7EAD/liboai.git
+[submodule "ThirdParty/curl"]
+	path = ThirdParty/curl
+	url = https://github.com/curl/curl.git
+[submodule "ThirdParty/nlohmann_json"]
+	path = ThirdParty/nlohmann_json
+	url = https://github.com/nlohmann/json.git
