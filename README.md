@@ -1,3 +1,2 @@
-# qgpt Simple Qt ChatGPT interface
-This is a simple Qt app that allows one to create prompts and receive feedback
-from the ChatGPT AI.
+# qgpt-quiz-game - A Simple Qt ChatGPT Quiz Game
+This is a simple Qt programming quiz game powered by ChatGPT.
